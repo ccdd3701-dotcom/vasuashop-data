@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Буст в blox fruits 🍇",
+    "price": 100,
+    "cat": "Roblox",
+    "status": "in",
+    "img": "Скип"
+  },
+  {
+    "id": 2,
+    "name": "150 робуксов",
+    "price": 129,
+    "cat": "Roblox",
+    "status": "in",
+    "img": "https://via.placeholder.com/150"
+  }
+]
