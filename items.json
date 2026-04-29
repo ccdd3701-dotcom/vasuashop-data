@@ -1,20 +1,4 @@
-[
-  {
-    "id": 1,
-    "name": "100 робуксов",
-    "price": 150,
-    "cat": "Roblox",
-    "status": "in",
-    "img": "https://via.placeholder.com/150"
-  },
-  {
-    "id": 2,
-    "name": "200 робуксов",
-    "desc": "Дайте ссылку на свой гейм пасс и робуксы у вас на аккаунте через 7 дней 🤑",
-    "price": 250,
-    "cat": "Roblox",
-    "content": "Введите свою ссылку для геймпасса и ждите выдачи",
-    "status": "in",
-    "img": "https://via.placeholder.com/150"
-  }
-]
+{
+  "categories": ["Roblox", "Steam", "Clash Royale", "Brawl Stars"],
+  "items": []
+}
