@@ -1,4 +1,18 @@
 {
-  "categories": ["Roblox", "Steam", "Clash Royale", "Brawl Stars"],
-  "items": []
+  "categories": [
+    "Roblox",
+    "Steam",
+    "Clash Royale",
+    "Brawl Stars"
+  ],
+  "items": [
+    {
+      "id": 1,
+      "cat": "Roblox",
+      "name": "Акк роблокс просто топ",
+      "desc": "Красота акк",
+      "price": 120,
+      "content": "100 робуксов прокачка рельсы"
+    }
+  ]
 }
